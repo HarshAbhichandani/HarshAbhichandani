@@ -79,6 +79,7 @@ Libraries
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 
 ---
 
@@ -97,6 +98,7 @@ Libraries
 
 - MySQL
 - Firebase Realtime Database
+- PSQL
 
 ---
 

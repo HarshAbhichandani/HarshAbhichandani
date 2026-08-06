@@ -18,12 +18,12 @@
 <img src="https://img.shields.io/badge/GitHub-HarshAbhichandani-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_LINKEDIN](https://www.linkedin.com/in/harsh-abhichandani-532a91318/)">
-<img src="https://img.shields.io/badge/LinkedIn-Harsh%20Abhichandani-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/harsh-abhichandani-532a91318/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Abhichandani-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:abhichandaniharsh8@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-abhichandaniharsh8@gmail.com-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>

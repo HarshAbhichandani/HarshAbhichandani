@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Abhichandani-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:abhichandaniharsh8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abhichandaniharsh8@gmail.com-red?style=for-the-badge&logo=gmail" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhichandaniharsh8@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>

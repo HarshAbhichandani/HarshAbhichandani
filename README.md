@@ -1,43 +1,172 @@
-# Hi 👋, I'm Harsh Abhichandani
+<div align="center">
 
-🎓 MSc IT Student | AI & Machine Learning Enthusiast | Full Stack Developer
+# 👋 Hi, I'm Harsh Abhichandani
 
-I enjoy building practical software and AI solutions. My interests include Machine Learning, Deep Learning, Full Stack Development, and Cloud Computing. I like solving real-world problems and continuously learning new technologies.
+### 🤖 AI & Machine Learning Engineer • Deep Learning Enthusiast • Full Stack Developer
 
-## 🚀 Tech Stack
+🎓 **M.Sc. Information Technology Student**
 
-- Languages: Python, Java, C++, JavaScript
-- Web: React, Django, HTML, CSS
-- AI/ML: TensorFlow, Scikit-learn, Pandas, NumPy
-- Databases: MySQL, Firebase
-- Cloud: AWS (Learning)
-- Tools: Git, GitHub, VS Code
+📍 Gujarat, India
 
-## 📌 Featured Projects
+🚀 Passionate about Artificial Intelligence, Deep Learning, Cloud Computing, and Building Real-World Applications.
 
-### 🌱 AI Predictive Auto Scaling
-Machine learning model that predicts future cloud resource usage to help optimize infrastructure scaling.
+🟢 Open to **Internships • Collaborations • Open Source**
 
-### 🩺 Pneumonia Detection
-Deep learning project that detects pneumonia from chest X-ray images using CNNs.
+<br>
 
-### 🌿 GrowTrace
-Plant growth prediction system using environmental sensor data with a React frontend and Django backend.
+<a href="https://github.com/HarshAbhichandani">
+<img src="https://img.shields.io/badge/GitHub-HarshAbhichandani-black?style=for-the-badge&logo=github">
+</a>
 
-### 🤖 Machine Learning Practice
-Collection of ML and Deep Learning projects including classification, regression, ANN, and LSTM models.
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Harsh%20Abhichandani-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-## 🌱 Currently Learning
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
-- AWS Certified AI Practitioner
-- Advanced Deep Learning
-- MLOps
-- System Design
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/HarshAbhichandani
-- LinkedIn: (Add your LinkedIn profile)
+</div>
 
 ---
-⭐ I enjoy building projects, learning new technologies, and solving real-world problems through software and AI.
+
+# 💡 About Me
+
+- 🤖 AI & Machine Learning Enthusiast
+- 🧠 Deep Learning using TensorFlow & Keras
+- 🌐 Full Stack Development using React & Django
+- ☁️ Currently Learning AWS AI & Cloud Services
+- 📈 Love building projects that solve real-world problems
+- 💻 Strong interest in Software Development & Artificial Intelligence
+
+---
+
+# 🚀 Tech Stack
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
+## AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+
+- Machine Learning
+- Deep Learning
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- Long Short-Term Memory (LSTM)
+- Transfer Learning
+- Computer Vision
+- Classification
+- Regression
+- Ensemble Learning
+- Random Forest
+- Data Preprocessing
+- Model Evaluation
+
+Libraries
+
+- TensorFlow
+- Keras
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+## Web Development
+
+- React
+- Django
+- HTML
+- CSS
+- REST API
+- Firebase
+
+---
+
+## Databases
+
+- MySQL
+- Firebase Realtime Database
+
+---
+
+## Cloud
+
+- AWS (Currently Preparing for AI Practitioner)
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Google Colab
+- Jupyter Notebook
+
+---
+
+# 📂 Featured Projects
+
+### 🌱 GrowTrace
+AI-powered Plant Growth Prediction System using environmental sensor data with React, Django and Machine Learning.
+
+---
+
+### ☁️ AI Predictive Auto Scaling
+
+Machine Learning model that predicts future cloud resource utilization for intelligent scaling.
+
+---
+
+### 🩺 Pneumonia Detection
+
+Deep Learning CNN model for detecting pneumonia from Chest X-Ray images.
+
+---
+
+### 📊 Machine Learning Collection
+
+Implementation of Classification, Regression, ANN, CNN, LSTM and Ensemble Learning models.
+
+---
+
+# 📚 Currently Learning
+
+- AWS AI Practitioner
+- Deep Learning
+- Computer Vision
+- MLOps
+- Generative AI
+- System Design
+
+---
+
+# 🎯 Career Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Software Engineering
+- Cloud Computing
+- Full Stack Development
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Always learning, always building."*
+
+</div>
